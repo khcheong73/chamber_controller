@@ -9,5 +9,5 @@ Features
 - Display information on 16x2 character LCD
 - Power source should be 12V or higher.
  
- Blog thread for the chamber controller: https://crazydoc.tistory.com/948
+ Blog thread for the chamber controller: https://crazydoc.tistory.com/948<br>
  Blog thread for DIY Prusa mini enclosure with this chamber controller: https://crazydoc.tistory.com/950
